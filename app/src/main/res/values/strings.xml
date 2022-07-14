@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavegacaoEntreTelas</string>
+
+    <!--Hint-->
+    <string name="hNome">Nome do objeto</string>
+    <string name="hDescricao">Descreva brevemente o que ele faz</string>
+    <string name="hId">Código do objeto</string>
+
+    <!--TextView-->
+    <string name="tvNome">Nome</string>
+    <string name="tvDescricao">Descrição</string>
+
+    <!--String-->
+    <string name="sAdicionar">Adicionar</string>
+    <string name="sEditar">Editar</string>
+    <string name="sCancelar">Cancelar</string>
+</resources>
